@@ -1,3 +1,0 @@
-﻿   Qt/MSBuild: 3.4.1.0
-C:\Users\30547\AppData\Local\QtMsBuild\qt_vars.targets(41,5): error : There's no Qt version assigned to project SecureComm.vcxproj for configuration Debug/x64.
-C:\Users\30547\AppData\Local\QtMsBuild\qt_vars.targets(41,5): error : Please set a Qt installation in 'Project|Properties|Configuration Properties|Qt Project Settings|Qt Installation'.

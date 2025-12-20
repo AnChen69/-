@@ -1,6 +1,0 @@
-D:\VS\VS2022\vs2022_test\BigProject\SecureComm\src\client\main.cpp;D:\VS\VS2022\vs2022_test\BigProject\SecureComm\SecureComm\x64\Debug\main.obj
-D:\VS\VS2022\vs2022_test\BigProject\SecureComm\src\core\crypto\MessageEncryption.cpp;D:\VS\VS2022\vs2022_test\BigProject\SecureComm\SecureComm\x64\Debug\MessageEncryption.obj
-D:\VS\VS2022\vs2022_test\BigProject\SecureComm\src\ui\ChatWindow.cpp;D:\VS\VS2022\vs2022_test\BigProject\SecureComm\SecureComm\x64\Debug\ChatWindow.obj
-D:\VS\VS2022\vs2022_test\BigProject\SecureComm\SecureComm\x64\Debug\qt\rcc\qrc_resources.cpp;D:\VS\VS2022\vs2022_test\BigProject\SecureComm\SecureComm\x64\Debug\qrc_resources.obj
-D:\VS\VS2022\vs2022_test\BigProject\SecureComm\SecureComm\x64\Debug\qt\rcc\qrc_SecureComm.cpp;D:\VS\VS2022\vs2022_test\BigProject\SecureComm\SecureComm\x64\Debug\qrc_SecureComm.obj
-D:\VS\VS2022\vs2022_test\BigProject\SecureComm\SecureComm\x64\Debug\qt\moc\moc_ChatWindow.cpp;D:\VS\VS2022\vs2022_test\BigProject\SecureComm\SecureComm\x64\Debug\moc_ChatWindow.obj
